@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 ## Hi there, Raspberry です！👋
 You can call me "树莓" or just "Berry"!
 
- - Undergraduate at XJTLU
+ - Undergraduate at XJTLU, Beng in Digital Media Technology
  - iOS & front-end Developer
- - Swift & SwiftUI, Objective-C & UIKit, Kotlin & Jetpack Compose & KMP, and React & React Native
+ - Swift & SwiftUI, Objective-C & UIKit, Kotlin & Jetpack Compose & KMP, and React & React Native. Now learning Rust
  - Rhythm gamer (major maimai DX,  <img src="https://dxrating.luoling.moe/api/luoxue/genImage/196218429781699" /> )
 
 ### Contact me

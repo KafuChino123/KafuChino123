@@ -28,7 +28,7 @@ You can call me "树莓" or just "Berry"!
 
 ### Projects
 
- - [舞萌DX玩家站](https://dev.maimaimoe.cn): 一站式舞萌DX信息查询和工具集合网站
+ - [舞萌DX玩家站](https://maimaimoe.cn): 一站式舞萌DX信息查询和工具集合网站
 
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=apple,swift,js,ts,html,css,react,nextjs,tailwind,sqlite,java,py,c,cs,unity,p5js,vscode,md,postman&theme=light)](https://skillicons.dev)

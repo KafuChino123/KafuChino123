@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Hi there, Raspberry です！👋
-You can call me "树莓" or just "Berry"!
 
  - Undergraduate at XJTLU, Beng in CSEE (Digital Media Technology Track)
  - 26Fall NYU, Master's in Computer Science

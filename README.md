@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ### Contact me
 
  - email: `raspberry0375@gmail.com`
- - Website: [https://r7y.moe](https://r7y.moe)
+ - Website: [https://blog.r7y.moe](https://blog.r7y.moe)
  - X: [@chino030705](https://x.com/chino030705)
 
 ### Projects

@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ## Hi there, Raspberry です！👋
 
- - UXJTLU, Beng in CSEE (Digital Media Technology Track)
+ - XJTLU, Beng in CSEE (Digital Media Technology Track)
  - Graduate at NYU, Master's in Computer Science
  - iOS & front-end Developer -> AI Full Stack
  - Swift & SwiftUI, Objective-C & UIKit, Kotlin & Jetpack Compose & KMP, and React & React Native. Now learning Rust

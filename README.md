@@ -18,7 +18,7 @@ Here are some ideas to get you started:
  - Graduate at NYU, Master's in Computer Science
  - iOS & front-end Developer -> AI Full Stack
  - Swift & SwiftUI, Objective-C & UIKit, Kotlin & Jetpack Compose & KMP, and React & React Native. Now learning Rust
- - Rhythm gamer (major maimai DX,  <img src="https://dxrating.luoling.moe/api/luoxue/genImage/196218429781699" /> )
+ - Rhythm gamer (major maimai DX,  <img src="https://dxrating.luoling.moe/api/luoxue/genImage/19621842978169" /> )
 
 ### Contact me
 
